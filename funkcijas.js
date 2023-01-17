@@ -35,3 +35,4 @@ function nomainitSkaitli(){
     console.log(datoraSkaitlis);
     izvaditAtbildi("Jauna spēle")
 }
+    
